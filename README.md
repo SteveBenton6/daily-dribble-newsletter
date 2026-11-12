@@ -23,6 +23,7 @@
 2. Inline vs block
 3. Flexbox
 4. Margins / Padding / Borders
-5. Divs
-6. Classes
-7. Centering (text-align & margin: auto)
+5. Margin Shorthand
+6. Divs
+7. Classes
+8. Centering (text-align & margin: auto)
