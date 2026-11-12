@@ -26,5 +26,3 @@
 5. Divs
 6. Classes
 7. Centering (text-align & margin: auto)
-8. Box-shadow
-9. Hover

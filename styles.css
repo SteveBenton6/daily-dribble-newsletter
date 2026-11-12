@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+  color: #121212;
+}
+
+.img {
+  border: 3px solid #121212;
+}
+
+.caption-p {
+  width: 380px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.response-block button {
+  display: block;
+  width: 220px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+.btn {
+  border: 3px solid #121212;
+  padding: 10px 20px;
+}
+
+/* .email-btn {
+  
+} */
+
+.join-btn {
+  background: #121212;
+  color: white;
+}
+
+.response-block p {
+  text-align: center;
+}
+
+.terms {
+  color: #121212;
+}
